@@ -39,12 +39,34 @@ skills/重返18岁/
 | 8 | **普通的一天** | 生活切片 |
 | 9 | **现在的你** | 跨越时空的对视 |
 
+## 安装
+
+### 一行命令
+
+打开你正在用的 agent（Claude Code、Codex、Cursor、OpenClaw、Hermes、CodeBuddy、Workbuddy、Gemini CLI、OpenCode 等），告诉它：
+
+```
+帮我安装这个 skill：https://github.com/LLawliet444/Echoes-of-Eighteen
+```
+
+
+### 使用
+
+装好后，告诉 agent：
+
+```
+> 重返18岁
+> 回到18岁
+> 帮我找到18岁的我
+```
+
+
+---
+
 ## 交互方式
 
 - 选择题推进（A-D + E"我自己说"+ F"下一章"）
-- 每轮先有一段时代画面短文（3-6行），再提问题
-- 中间过程对用户黑箱
-- 用户可随时回复"差不多了"进入最终报告
+- 可随时回复"差不多了"进入最终报告
 
 ## 版本
 
